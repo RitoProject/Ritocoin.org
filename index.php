@@ -214,6 +214,7 @@ The developer fund is a key component of fostering a development-oriented commun
       <center><a href="https://wiki.ritocoin.org/wiki/Main_Page” style="font-size:2em;">Rito Wiki</a></center>
       <P>
     </div> <!-- /.container -->
+</div>
 
     <div class="container">
       <h3 id="pools" class="subhead">Mining Pools</h3>
