@@ -113,7 +113,7 @@ The developer fund is a key component of fostering a development-oriented commun
         </div> 
 
       </div> 
-    </div> 
+     
 
     <div class="container">
       <h3 id="connect" class="subhead">Connect</h3>
@@ -207,8 +207,8 @@ The developer fund is a key component of fostering a development-oriented commun
             <B><a href="https://play.google.com/store/apps/details?id=org.ritocoin.aw">Google Play</a></B>
             (<a href="/img/android/">Screenshots</a>)
         </p>
-      </div> 
-    </div> 
+       
+     
 <div class="container">
       <h3 id="rito wiki" class="subhead">rito wiki</h3>
       <center><a href="https://wiki.ritocoin.org/wiki/Main_Page” style="font-size:2em;">Rito Wiki</a></center>
