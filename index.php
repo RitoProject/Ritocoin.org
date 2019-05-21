@@ -210,8 +210,8 @@ The developer fund is a key component of fostering a development-oriented commun
        
 <div> 
 <div class="container">
-      <h3 id="rito wiki" class="subhead">rito wiki</h3>
-      <center><a href="https://wiki.ritocoin.org/wiki/Main_Page” style="font-size:2em;">Rito Wiki</a></center>
+      <h3 id="Rito Wiki" class="subhead">Rito Wiki</h3>
+      <center><a href="https://wiki.ritocoin.org/wiki/” style="font-size:2em;">Rito Wiki</a></center>
       <P>
     </div> <!-- /.container -->
 </div>
