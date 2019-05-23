@@ -44,6 +44,14 @@
     </div> <!-- /.jumbotron -->
 
     <div class="container">
+      <h3 id="news" class="subhead">Big News!!</h3>
+Out of nowhere, CryptoBridge announced a week long vote to determine which worthy project would get listed for free on their exchange, and they included Ritocoin into their poll. We are currently over 50% of the votes and we are calling on the entire community to unite and vote for Ritocoin in this poll! Let's show the strength of this community and win this vote by a landslide!! We're winning big already, we just need to keep the momentum going.
+<P>
+<B><a href="https://twitter.com/cryptobridge/status/1130589467356610565?s=12">Click here to vote on twitter</a>
+    </div>
+
+
+    <div class="container">
       <h3 id="about" class="subhead">What is Ritocoin</h3>
       <div class="row faqs">
         <p class="col-md-6 col-sm-6">
@@ -56,9 +64,9 @@ Ritocoin launches with the spirit of community, cypherpunk culture and hacker et
 Ritocoin is intended to be a bazaar of ideas prioritizing security, user control, privacy, censorship resistance, and fair distribution of hashrate to all members of the cryptocurrency community.
 <br><br>
 <strong>Masternodes</strong><BR>
-Masternodes give miners fun and interesting goals to mine toward, as they work to build a holding sufficient to stake their own masternode. Many miners enjoy working together to pool their mined coins to create cooperatively managed masternodes. Sub-communities gather around these shared masternodes enhancing the experience for everyone involved. Ritocoin recognizes and appreciates the interesting features that other coins have added to their blockchain. We intend to explore the feasibility of incorporating these features into our blockchain. Instant transactions, in particular, is an innovation that masternodes can bring to a network. Privacy features are a second key feature we will investigate. Masternodes also give new and interesting ways for hobbyists to become more intimately involved with a coin project. Finally, permitting voting on important community matters is an attractive governance model that masternodes can help solve.
+The founding opinion of the Ritocoin developers was that masternodes give miners fun and interesting goals to mine toward, as they work to build a holding sufficient to stake their own masternode. Many miners enjoy working together to pool their mined coins to create cooperatively managed masternodes. Sub-communities gather around these shared masternodes enhancing the experience for everyone involved. Ritocoin recognizes and appreciates the interesting features that other coins have added to their blockchain. We intend to explore the feasibility of incorporating these features into our blockchain. Instant transactions, in particular, is an innovation that masternodes can bring to a network. Privacy features are a second key feature we will investigate. Masternodes also give new and interesting ways for hobbyists to become more intimately involved with a coin project. Finally, permitting voting on important community matters is an attractive governance model that masternodes can help solve.
 <br><br>
-Through early 2019, we will be conducting open conversations about this topic with the Ritocoin community of miners and holders, and we will collaboratively design and implement a masternode system for Ritocoin. Masternodes will be available to anyone who owns enough RITO. The only way to obtain a masternode will be to mine RITO or obtain the coins from other RITO holders.
+Through early 2019, we had various conversations about this topic with the Ritocoin community of miners and holders. We have found less enthusiasm for masternodes than we originally expected, and for now the topic of bringing special nodes into the mix has been put on hold while we pursue other ideas for the blockchain.
 <br><br>
         </p>
         <p class="col-md-6 col-sm-6">
