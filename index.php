@@ -75,7 +75,7 @@ POW Block Reward: <a href="/docs/rewards.php">Smooth curve down</a><BR>
 Community fund: 1% first year<BR>
 Difficulty Retargeting: DGW-180<BR>
 Pre-mine: None<BR>
-Masternodes: Planned.<BR>
+Masternodes: Planned (Maybe?)<BR>
 Asset layer: Activates at height 50,000 <BR>
 Asset layer Update: Activated!<BR>
 <BR>
