@@ -45,7 +45,7 @@
 
     <div class="container">
       <h3 id="news" class="subhead">Big News!!</h3>
-Out of nowhere, CryptoBridge announced a week long vote to determine which worthy project would get listed for free on their exchange, and they included Ritocoin into their poll. We are currently over 50% of the votes and we are calling on the entire community to unite and vote for Ritocoin in this poll! Let's show the strength of this community and win this vote by a landslide!! We're winning big already, we just need to keep the momentum going.
+Announced May 30th, CryptoBridge will be listing Ritocoin on their exchange for free.
 <P>
 <B><a href="https://twitter.com/cryptobridge/status/1130589467356610565?s=12">Click here to vote on twitter</a>
     </div>
