@@ -46,8 +46,6 @@
     <div class="container">
       <h3 id="news" class="subhead">Big News!!</h3>
 Announced May 30th, CryptoBridge will be listing Ritocoin on their exchange for free.
-<P>
-<B><a href="https://twitter.com/cryptobridge/status/1130589467356610565?s=12">Click here to vote on twitter</a>
     </div>
 
 
