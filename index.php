@@ -130,61 +130,64 @@ The developer fund is a key component of fostering a development-oriented commun
           </div>
           <h3><a href="https://github.com/RitoProject/">Github</a></h3>
         </div> 
-
         <div class="col-md-3 col-sm-3 cool_circle">
           <div class="cool_circle-ball">
             <a href="https://discord.gg/Bueav8s"><img src="/img/connect/discord.png" style="max-width:100px;"></a>
           </div>
           <h3><a href="https://discord.gg/Bueav8s">Discord</a></h3>
         </div> 
-
         <div class="col-md-3 col-sm-3 cool_circle">
-          <div class="cool_circle-ball">
-            <a href="https://bitcointalk.org/index.php?topic=5076284.0"><span class="glyphicon glyphicon-bullhorn"></span></a>
-          </div>
-          <h3><a href="https://bitcointalk.org/index.php?topic=5076284.0">[ANN]</a></h3>
-        </div> 
-        <div class="row cool_circles">
-          <div class="col-md-3 col-sm-3 cool_circle">
-            <div class="cool_circle-ball">
-              <a href="https://twitter.com/ritocoin"><img src="/img/connect/twitter.png" style="max-width:100px;"></a>
-            </div>
-            <h3><a href="https://twitter.com/ritocoin">Twitter</a></h3>
-          </div> 
-        </div> 
-      </div> 
-      <div class="row cool_circles">
-
-        <div class="col-md-4 col-sm-4 cool_circle">
-          <div class="cool_circle-ball">
-            <a href="https://t.me/joinchat/I4nwmBYrHGggXsBbQf-yAw"><img src="/img/connect/telegram.png" style="max-width:100px;"></a>
-          </div>
-          <h3><a href="https://t.me/joinchat/I4nwmBYrHGggXsBbQf-yAw">Telegram</a></h3>
-        </div> 
-
-        <div class="col-md-4 col-sm-4 cool_circle">
-          <div class="cool_circle-ball">
-            <a href="https://insight.ritocoin.org/"><span class="glyphicon glyphicon-link"></span></a>
-          </div>
-          <h3><a href="https://insight.ritocoin.org/">Explorer</a></h3>
-        </div> 
-        <div class="col-md-4 col-sm-4 cool_circle">
-          <div class="cool_circle-ball">
-            <a href="https://rito.safc.cc/"><span class="glyphicon glyphicon-link"></span></a>
-          </div>
-          <h3><a href="https://rito.safc.cc/">Explorer2</a></h3>
-        </div>
-        <div class="col-md-4 col-sm-4 cool_circle">
           <div class="cool_circle-ball">
             <a href="https://wiki.ritocoin.org/"><span class="glyphicon glyphicon-link"></span></a>
           </div>
           <h3><a href="https://wiki.ritocoin.org/">Rito Wiki</a></h3>
         </div> 
-    <div class="col-md-4 col-sm-4 cool_circle">
+        <div class="col-md-3 col-sm-3 cool_circle">
           <div class="cool_circle-ball">
-            <a href="https://ritocoin.asset-explorer.net/"><span class="glyphicon glyphicon-link"></span></a>
+            <a href="https://twitter.com/ritocoin"><img src="/img/connect/twitter.png" style="max-width:100px;"></a>
           </div>
-          <h3><a href="https://ritocoin.asset-explorer.net/">Asset Explorer</a></h3
+          <h3><a href="https://twitter.com/ritocoin">Twitter</a></h3>
+        </div> 
+      </div> 
+      <div class="row cool_circles">
+        <div class="col-md-3 col-sm-3 cool_circle">
+          <div class="cool_circle-ball">
+            <a href="https://insight.ritocoin.org/"><span class="glyphicon glyphicon-link"></span></a>
+          </div>
+          <h3><a href="https://insight.ritocoin.org/">Explorer</a></h3>
+        </div> 
+        <div class="col-md-3 col-sm-3 cool_circle">
+          <div class="cool_circle-ball">
+            <a href="https://rito.safc.cc/"><span class="glyphicon glyphicon-link"></span></a>
+          </div>
+          <h3><a href="https://rito.safc.cc/">Explorer2</a></h3>
+        </div>
+        <div class="col-md-3 col-sm-3 cool_circle">
+          <div class="cool_circle-ball">
+            <a href="https://blockbook.ritocoin.org/"><span class="glyphicon glyphicon-link"></span></a>
+          </div>
+          <h3><a href="https://blockbook.ritocoin.org/">Explorer3</a></h3>
+        </div>
+        <div class="col-md-3 col-sm-3 cool_circle">
+          <div class="cool_circle-ball">
+            <a href="https://ritocoin.asset-explorer.net/"><span class="glyphicon glyphicon-bullhorn"></span></a>
+          </div>
+          <h3><a href="https://ritocoin.asset-explorer.net/">Asset Explorer</a></h3>
+        </div> 
+      </div>
+      <div class="row cool_circles">
+        <div class="col-md-6 col-sm-6 cool_circle">
+          <div class="cool_circle-ball">
+            <a href="https://bitcointalk.org/index.php?topic=5076284.0"><span class="glyphicon glyphicon-bullhorn"></span></a>
+          </div>
+          <h3><a href="https://bitcointalk.org/index.php?topic=5076284.0">[ANN]</a></h3>
+        </div> 
+        <div class="col-md-6 col-sm-6 cool_circle">
+          <div class="cool_circle-ball">
+            <a href="https://t.me/joinchat/I4nwmBYrHGggXsBbQf-yAw"><img src="/img/connect/telegram.png" style="max-width:100px;"></a>
+          </div>
+          <h3><a href="https://t.me/joinchat/I4nwmBYrHGggXsBbQf-yAw">Telegram</a></h3>
+        </div> 
       </div> 
     </div> 
 
