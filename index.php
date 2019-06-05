@@ -153,7 +153,7 @@ The developer fund is a key component of fostering a development-oriented commun
       <div class="row cool_circles">
         <div class="col-md-3 col-sm-3 cool_circle">
           <div class="cool_circle-ball">
-            <a href="https://insight.ritocoin.org/"><span class="glyphicon glyphicon-link"></span></a>
+            <a href="https://insight.ritocoin.org/"><img src="/img/connect/Ritocoin_LOGO_explorer.png" style="max-width:100px;"></a>
           </div>
           <h3><a href="https://insight.ritocoin.org/">Explorer</a></h3>
         </div> 
