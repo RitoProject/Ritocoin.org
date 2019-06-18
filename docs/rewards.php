@@ -22,7 +22,7 @@
 <h2>Short Term</h2>
 Ritocoin was launched with the block reward and schedule unchanged from our parent Ravencoin. 5000 RITO per block were generated with a "halvening every 4 years" schedule. We are changing that, and the new schedule is as follows:
 <BR><BR>
-Starting at height 157,081 we will begin a reduction of future block rewards in a smooth exponential curve down. We will sharply reduce the block reward from 5000 down to 1000 within 2 months after activation of this schedule. Once we reach 1000, we will enter into the long-term reduction curve that will eventually take us down to a permanent block reward of 10 RITO per block.
+Starting at height 157,081 we began a reduction of block rewards in a smooth exponential curve down. We sharply reduced the block reward from 5000 down to 1000 within 2 months after activation of this schedule. At block 287725 we reach 1000 and then we enter into the long-term reduction curve that will eventually take us down to a permanent block reward of 10 RITO per block.
 <BR><BR>
 <img src="chart1.png" class="img-responsive" style="border: 2px solid black;"><BR><BR>
 <h2>Long Term</h2>
