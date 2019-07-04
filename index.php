@@ -98,26 +98,19 @@ The developer fund is a key component of fostering a development-oriented commun
     <div class="container">
       <h3 id="exchanges" class="subhead">Exchanges</h3>
       <div class="row cool_circles">
-        <div class="col-md-4 col-sm-4 cool_circle">
+        <div class="col-md-6 col-sm-6 cool_circle">
           <div class="cool_circle-ball">
             <a href="https://wallet.crypto-bridge.org/market/BRIDGE.RITO_BRIDGE.BTC"><img src="/img/exchange/cryptobridge.png" style="max-width:100px;"></a>
           </div>
           <h3><a href="https://wallet.crypto-bridge.org/market/BRIDGE.RITO_BRIDGE.BTC">CryptoBridge</a></h3>
         </div>
 
-        <div class="col-md-4 col-sm-4 cool_circle">
+        <div class="col-md-6 col-sm-6 cool_circle">
           <div class="cool_circle-ball">
             <a href="https://www.safe.trade/"><img src="/img/exchange/safetrade.png" style="max-width:100px;"></a>
           </div>
           <h3><a href="https://www.safe.trade/">SafeTrade</a></h3>
         </div>
-
-        <div class="col-md-4 col-sm-4 cool_circle">
-          <div class="cool_circle-ball">
-            <a href="https://trade.mct.plus/"><img src="/img/exchange/mct.png" style="max-width:100px;"></a>
-          </div>
-          <h3><a href="https://trade.mct.plus/">MCT+</a></h3>
-        </div> 
 
       </div> 
      
