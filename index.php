@@ -184,6 +184,12 @@ The developer fund is a key component of fostering a development-oriented commun
         </div> 
       </div> 
     </div> 
+      <div class="col-md-3 col-sm-3 cool_circle">
+        <div class="cool_circle-ball">
+          <a href="https://www.reddit.com/r/ritocoin/"><span class="glyphicon glyphicon-link"></span></a>
+       </div>
+       <h3><a href="https://www.reddit.com/r/ritocoin/">Reddit</a></h3>
+     </div> 
 
     <div class="container">
       <h3 id="downloads" class="subhead">Downloads / Wallets</h3>
