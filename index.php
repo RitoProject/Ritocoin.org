@@ -228,7 +228,7 @@ The developer fund is a key component of fostering a development-oriented commun
     <footer>
       <div class="container clearfix">
         <p class="pull-left">
-          Provided by the Ritocoin Project 2019 
+          Provided by the Ritocoin Project 2020
         </p>
         <p class="pull-right">
           <a href="https://ritocoin.org/">Ritocoin.org</a>
